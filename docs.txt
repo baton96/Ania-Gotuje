@@ -1,0 +1,9 @@
+Possible exceptions:
+cheese
+spices
+nuts
+soups (broth)
+olive oil
+
+chicken * -> chicken
+turkey .* -> turkey
